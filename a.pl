@@ -3,3 +3,5 @@
 
 print "hi\n";
 print "bye\n";
+
+print "wait!";
