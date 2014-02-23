@@ -4,9 +4,9 @@
 print "hi\n";
 print "bye\n";
 
-print "Cheese";
+print "Cheese\n";
 
-print "wait!";
+print "wait!\n";
 
 for ($i=0; $i<12; $i++) {
 
