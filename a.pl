@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 
 
+print "<p>";
 print "hi\n";
 print "bye\n";
 
@@ -15,3 +16,5 @@ while ($i<12) {
     ++$i;
 
 }
+
+print "</p>";
