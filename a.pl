@@ -4,6 +4,6 @@
 print "hi\n";
 print "bye\n";
 
-print "Bread";
+print "Cheese";
 
 print "wait!";
