@@ -8,8 +8,10 @@ print "Cheese\n";
 
 print "wait!\n";
 
-for ($i=0; $i<12; $i++) {
+while ($i<12) {
 
     print "$i\n";
+
+    ++$i;
 
 }
