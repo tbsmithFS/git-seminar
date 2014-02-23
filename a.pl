@@ -8,7 +8,7 @@ print "Cheese";
 
 print "wait!";
 
-while ($i<10) {
+while ($i<12) {
 
     print "$i\n";
 
